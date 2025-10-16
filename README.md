@@ -22,9 +22,6 @@ You can directly open and execute the full code in Google Colab 👇
 
 [![Open In Colab]()
 
-> Replace the above link with your actual Colab notebook URL.
-
----
 
 ## 🧠 Overview
 Financial markets are dynamic and complex. Recognizing stocks that move alike helps investors manage risk and optimize portfolios.  
