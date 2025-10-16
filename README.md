@@ -1,0 +1,1 @@
+# Stock-Portfolio-Management-Using-Patterns-Similarity-And-Price-Based
