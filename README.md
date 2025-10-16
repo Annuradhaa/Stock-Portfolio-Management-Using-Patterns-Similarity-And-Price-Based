@@ -20,8 +20,9 @@ After identifying similar stocks, they are **clustered by closing prices** withi
 
 You can directly open and execute the full code in Google Colab 👇  
 
-[![Open In Colab]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eHaHXbU1tEhTw0i9g6sZFAXc7cir5X4A?usp=sharing)
 
+---
 
 ## 🧠 Overview
 Financial markets are dynamic and complex. Recognizing stocks that move alike helps investors manage risk and optimize portfolios.  
